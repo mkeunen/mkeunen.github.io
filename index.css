@@ -1,0 +1,36 @@
+* {
+  font-family: sans-serif;
+}
+.navbox {
+  color: #555555;
+  background-color: #E8FDF5;
+  height: 30px;
+  font-size: 20px;
+  padding: 15px;
+  text-align: center;
+  font-family: sans-serif;
+}
+nav a {
+  padding: 100px;
+  color: #555555;
+}
+body {
+  display:block;
+  background-color: #CCCCCC;
+  color: #555555;
+}
+img {
+}
+.body
+{
+  background-color: #F6FFFE;
+  width:590px;
+  padding: 7px;
+  margin: 10px;
+}
+.list {
+  background-color: #F6FFFE;
+  width:270px;
+  padding: 3px;
+  margin: 10px;
+}

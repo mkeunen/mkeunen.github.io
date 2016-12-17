@@ -1,0 +1,54 @@
+
+body {
+  font-family: sans-serif;
+  color: black;
+  background-color: #E7E9CB;
+  }
+
+a {
+color: blue;
+  }
+
+
+.banner{
+  font-size: 30px;
+  text-align: center;
+  padding: 50px;
+  margin:
+}
+
+.banner img{
+max-width: 1000px;
+align-items: center;
+
+}
+
+.subtitle{
+  text-align: center;
+}
+
+.boxmodel{
+    background-color: #E1E3CB;
+    max-width: 400px;
+    text-align: center;
+    padding: 50px;
+  }
+
+.boxmodel h4{
+    margin-top: 0;
+  }
+
+.boxmodel img{
+    max-width: 250px;
+  }
+
+
+  .links {
+  text-align: center;
+  font-size: 14pt;
+
+  }
+
+  .links a{
+    margin: 10px;
+  }
